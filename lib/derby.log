@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Oct 11 16:43:35 JST 2015:
+DerbyバージョンThe Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): インスタンスa816c00e-0150-55da-d1eb-000006f652d0を
+file:/Users/tada/Java/ap-server/payara-micro-4.1.153.jarからロードされたクラス・ローダーsun.misc.Launcher$AppClassLoader@33909752により
+データベース・ディレクトリ/private/var/folders/3f/t4_vs7bx2z9_s3__tc65854r0000gn/T/gfembed8341256826691121558tmp/lib/databases/embedded_default上でブートしています
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/Users/tada/NetBeansProjects/PayaraMicroRestServer/lib
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11
+derby.system.home=null
+データベース・クラス・ローダーが開始されました - derby.database.classpath=''
