@@ -22,19 +22,19 @@ JPAのDBスキーマ生成機能を使っていますので、アプリ起動時
 テーブルは、employee(社員)とdepartment(部署)の2つです。
 
 - employee
-|id(PK)|name|joined_date|dept_id(FK)|
-|---|---|---|---|
-|1|Yumi Wakatsuki|2015-04-01|1|
-|2|Mai Fukagawa|2015-04-01|1|
-|3|Erika Ikuta|2015-04-01|2|
-|4|Reika Sakurai|2015-04-01|2|
-|5|Nanase Nishino|2015-04-01|2|
+| id(PK) | name | joined_date | dept_id(FK) |
+| --- | --- | --- | --- |
+| 1 | Yumi Wakatsuki | 2015-04-01 | 1 |
+| 2 | Mai Fukagawa | 2015-04-01 | 1 |
+| 3 | Erika Ikuta | 2015-04-01 | 2 |
+| 4 | Reika Sakurai | 2015-04-01 | 2 |
+| 5 | Nanase Nishino | 2015-04-01 | 2 |
 
 - department
-|dept_id(PK)|name|
-|---|---|
-|1|Sales|
-|2|Development|
+| dept_id(PK) | name |
+| --- | --- |
+| 1 | Sales |
+| 2 | Development |
 
 
 ## 起動方法
